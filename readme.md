@@ -2,7 +2,7 @@
 
 various reference code files for my own use and modules I made to practice verilog by following along some guides
 
-links I used:
+sources:
 
 FIFO block:
 
@@ -17,3 +17,7 @@ https://nandland.com/uart-serial-port-module/
 SystemVerilog:
 
 https://www.asic-world.com/systemverilog/index.html 
+
+Testbench Template:
+
+Advanced Digital Design with the Verilog HDL by Michael D. Ciletti
