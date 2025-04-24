@@ -1,6 +1,6 @@
-﻿# verilog-reference-code
+﻿# verilog-notes
 
-various reference code files for my own use and modules I made to practice verilog by following along some guides
+various notes, reference code files, and modules I made to improve verilog at digital design.
 
 sources:
 
